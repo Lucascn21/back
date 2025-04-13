@@ -9,7 +9,7 @@ import {
   script8Ej1,
   script9Ej1,
   script10Ej1,
-} from "./ejercitacionUno";
+} from "./ejercitaciones/ejercitacionUno";
 
 import {
   script1_Ej2,
@@ -22,7 +22,7 @@ import {
   script8_Ej2,
   script9_Ej2,
   script10_Ej2,
-} from "./ejercitacionDos";
+} from "./ejercitaciones/ejercitacionDos";
 
 //Primera Tanda de Ejercicios
 /*

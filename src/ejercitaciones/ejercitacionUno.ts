@@ -2,8 +2,8 @@ import {
   gradosCelsiusAFahrenheit,
   kilogramosALibras,
   metrosAKilometros,
-} from "./conversor";
-import { joinPath, validateFilePath } from "./file_utils";
+} from "../conversor";
+import { joinPath, validateFilePath } from "../file_utils";
 import { Request, Response } from "express";
 const fs = require("fs");
 const path = require("path");
