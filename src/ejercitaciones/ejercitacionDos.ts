@@ -1,8 +1,4 @@
 /**
- * Practica #2 - Ejercitación Dos
- */
-
-/**
  * Ejercicio 1: Convertir función tradicional a arrow function
  * Tradicional: function saludar(nombre) { return "Hola " + nombre + "!"; }
  * Convertida a función flecha.
